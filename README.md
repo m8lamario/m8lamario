@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=60&letterSpacing=2px&duration=3000&pause=100&color=79BAF4&center=true&vCenter=true&width=1280&height=300&lines=Mario+Mottola;17+anni;Web+developer)](https://git.io/typing-svg)
 
 ## 🧑‍💻 Chi sono
-Sono **Mario Mottola**, uno studente di 17 anni appassionato di sviluppo web e tecnologia. Mi piace progettare e realizzare soluzioni software funzionali, pulite e orientate ai dettagli, continuando ogni giorno a imparare e a migliorare.
+Sono **Mario Mottola**, uno studente di 18 anni appassionato di sviluppo web e tecnologia. Mi piace progettare e realizzare soluzioni software funzionali, pulite e orientate ai dettagli, continuando ogni giorno a imparare e a migliorare.
 
-- 🎓 Quarto anno in un istituto tecnico informatico tra i più completi e sfidanti della mia città  
+- 🎓 Quinto anno in un istituto tecnico informatico tra i più completi e sfidanti della mia città  
 - 💡 Interesse principale: backend, architettura di servizi e ottimizzazione  
 - 🎵 Musica e codice: Spotify sempre in sottofondo
 
