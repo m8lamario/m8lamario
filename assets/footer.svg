@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer">
-  <defs>
-    <linearGradient id="g2" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#0ea5e9"/>
-      <stop offset="1" stop-color="#8b5cf6"/>
-    </linearGradient>
-  </defs>
-  <rect width="1200" height="120" fill="url(#g2)"/>
-  <path d="M0,20 C220,45 420,0 600,25 C780,50 1000,15 1200,35 L1200,120 L0,120 Z" fill="#ffffff" fill-opacity="0.15"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" fill="none" aria-label="Footer" role="img" viewBox="0 0 1200 120"><defs><linearGradient id="g2" x1="0" x2="1200" y1="0" y2="0" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0ea5e9"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs><rect width="1200" height="120" fill="url(#g2)"/><path fill="#fff" fill-opacity=".15" d="M0,20 C220,45 420,0 600,25 C780,50 1000,15 1200,35 L1200,120 L0,120 Z"/></svg>
