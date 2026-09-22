@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=nav&color=0:0ea5e9,100:8b5cf6" alt="nav" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=60&letterSpacing=2px&duration=3000&pause=100&color=79BAF4&center=true&vCenter=true&width=1280&height=300&lines=Mario+Mottola;17+anni;Web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Monoton&size=60&letterSpacing=2px&duration=3000&pause=100&color=79BAF4&center=true&vCenter=true&width=1280&height=300&lines=Mario+Mottola;18+anni;Web+developer)](https://git.io/typing-svg)
 
 ## 🧑‍💻 Chi sono
 Sono **Mario Mottola**, uno studente di 18 anni appassionato di sviluppo web e tecnologia. Mi piace progettare e realizzare soluzioni software funzionali, pulite e orientate ai dettagli, continuando ogni giorno a imparare e a migliorare.
